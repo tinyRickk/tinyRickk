@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tinyRickk
-- 👀 I’m interested in Machine Learning and Physics
-- 🌱 I’m currently learning Theoretical Physics
+- 👀 I’m interested in Machine Learning , Quantum Computation and Information and Physics
+- 🌱 I’m currently learning Quantum Computing and Theoretical Physics
 - 💞️ I’m looking to collaborate on Applied Machine/deep learning in Astrophysics 
 
 <!---
